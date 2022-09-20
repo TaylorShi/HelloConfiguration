@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "demoForConsole31": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "car1": "tesla",
+        "car2": "byd",
+        "car__car3": "benci",
+        "car4__car5__car6": "baoma",
+        "car_xxx": "jieguan"
+      }
+    }
+  }
+}
