@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoForExtSource", "demoFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoForCustomConfigSource", "demoForCustomConfigSource\demoForCustomConfigSource.csproj", "{5D8B992A-EE87-49F8-9F5B-767ABFB43A29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoForOptions31", "demoForOptions31\demoForOptions31.csproj", "{3E9FD6ED-28E6-4AF3-AE80-FAD9BEF53660}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5D8B992A-EE87-49F8-9F5B-767ABFB43A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D8B992A-EE87-49F8-9F5B-767ABFB43A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D8B992A-EE87-49F8-9F5B-767ABFB43A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9FD6ED-28E6-4AF3-AE80-FAD9BEF53660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9FD6ED-28E6-4AF3-AE80-FAD9BEF53660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9FD6ED-28E6-4AF3-AE80-FAD9BEF53660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9FD6ED-28E6-4AF3-AE80-FAD9BEF53660}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
